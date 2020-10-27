@@ -16,3 +16,5 @@ $router->get('/', function () use ($router) {
 });
 
 $router->get('foo','BooksController@index');
+
+$router->get('/books/{id}','BooksController@getdatabyid');

@@ -14,4 +14,8 @@ Memberikan pesan tidak ditemukan jika id tidak ada di database melalui controlle
 Modul 2
 
 Penjelasan singkat :
-
+Di modul ini kita membuat fungsi CRUD pada aplikasi bookapp.
+Membuat function store untuk menginput data baru.
+Membuat function update untuk mengupdate data.
+Membuat function destroy untuk mengupdate data.
+Dan di tugas praktikum membuat fungsi CRUD pada authors.
